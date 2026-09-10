@@ -7,7 +7,7 @@ Compile using the developer command prompt from Visual Studio 2022 and the .cpp 
 
 > Input cl /EHsc helloWorld.cpp
 
-This command should create helloWorld.exe
+This command will create helloWorld.exe
 
 # Running the Program
 Call the compiled .exe with **helloWorld** in the command line
