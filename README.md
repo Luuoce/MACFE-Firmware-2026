@@ -3,11 +3,12 @@
 * Microsoft Visual C++ (Should be installed together with Visual Studio 2022)
 
 # Compilation 
-Compile using the developer command prompt from Visual Studio 2022 and the .cpp file 
-Navigate to the folder containing the .cpp
+Compile using the developer command prompt from Visual Studio 2022 and the .cpp file
 
+Tutorial:
+1. Navigate to the file directory containing the .cpp
+2. Enter:
 > cl /EHsc helloWorld.cpp
-
 This command will create helloWorld.exe
 
 # Running the Program
