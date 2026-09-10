@@ -7,9 +7,9 @@ Compile using the developer command prompt from Visual Studio 2022 and the .cpp 
 
 Tutorial:
 1. Navigate to the file directory containing the .cpp
-2. Enter:
-> cl /EHsc helloWorld.cpp
-This command will create helloWorld.exe
+2. Use `cl /EHsc helloWorld.cpp`
+   
+The previous command will create helloWorld.exe
 
 # Running the Program
 Call the compiled .exe with **helloWorld** in the command line
