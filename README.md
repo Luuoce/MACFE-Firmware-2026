@@ -4,6 +4,7 @@
 
 # Compilation 
 Compile using the developer command prompt from Visual Studio 2022 and the .cpp file 
+Navigate to the folder containing the .cpp
 
 > cl /EHsc helloWorld.cpp
 
