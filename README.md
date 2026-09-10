@@ -5,6 +5,9 @@
 # Compilation 
 Compile using the developer command prompt from Visual Studio 2022 and the .cpp file 
 
+> cl /EHsc helloWorld.cpp
+> This command should create helloWorld.obj
+
 # Running the Program
 Call the compiled .exe with helloWorld in the command line
 
